@@ -10,13 +10,13 @@ can improve mathematical reasoning accuracy on GSM8K compared to a standard LLM 
 
 # Experimental Setup
 
-Model: LLaMA 3.1 8B (via API)
-Dataset: GSM8K (test subset = 180)
-Retrieval DB: 250 training examples
-Embedding Model: all-MiniLM-L6-v2 (384-dim)
-Similarity Metric: Inner Product (FAISS)
-Temperature: 0.1
-Max Tokens: 200
+1) Model: LLaMA 3.1 8B (via API)
+2) Dataset: GSM8K (test subset = 180)
+3) Retrieval DB: 250 training examples
+4) Embedding Model: all-MiniLM-L6-v2 (384-dim)
+5) Similarity Metric: Inner Product (FAISS)
+6) Temperature: 0.1
+7) Max Tokens: 200
 
 # Architectures Compared
 1️) Baseline LLM
