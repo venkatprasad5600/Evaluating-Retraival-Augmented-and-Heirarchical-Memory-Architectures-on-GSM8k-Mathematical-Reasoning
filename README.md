@@ -37,10 +37,10 @@ Dynamic memory updates during evaluation
 
 # Results
    
-{System, Baseline, Flat Retraieval, Heirarchical Memory}
-{Accuracy	        47.22%            55.00%               46.67%
-Avg Latency	     1.95s             1.76s                720.0
-Avg Tokens       289.9             720.0                684.8
+{System: Baseline, Flat Retraieval, Heirarchical Memory}
+{Accuracy:       47.22%            55.00%               46.67%}
+{Avg Latency:	     1.95s             1.76s                720.0}
+{Avg Tokens:       289.9             720.0                684.8}
 
 
 # Key Findings
